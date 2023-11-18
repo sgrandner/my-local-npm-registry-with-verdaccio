@@ -1,0 +1,7 @@
+conf/**/*
+!conf/**/*.yaml
+
+plugins/
+storage/
+
+local-test-credentials.txt
