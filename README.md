@@ -1,7 +1,8 @@
 # Setup local npm registry with verdaccio
 
-https://blog.bitsrc.io/how-to-set-up-a-private-npm-registry-locally-1065e6790796
-https://blog.bitsrc.io/install-npm-private-packages-in-ci-cd-with-github-actions-746db95017cc
+see
+* https://blog.bitsrc.io/how-to-set-up-a-private-npm-registry-locally-1065e6790796
+* https://blog.bitsrc.io/install-npm-private-packages-in-ci-cd-with-github-actions-746db95017cc
 
 ## setup verdaccio
 
@@ -21,7 +22,7 @@ create verdaccio config (`config.yaml`) in folder conf
 
 ### open in browser
 
-localhost:4873
+    localhost:4873
 
 
 ### create registry user
@@ -99,4 +100,5 @@ Go to your poject.
 ## Install NPM Private Packages in CI/CD with GitHub Actions
 
 ...
+
 see https://blog.bitsrc.io/install-npm-private-packages-in-ci-cd-with-github-actions-746db95017cc
